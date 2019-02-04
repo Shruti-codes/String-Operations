@@ -1,4 +1,4 @@
-#Minimum appends needed to make a string pallindrome
+#Minimum appends needed to make a string palindrome
 
 s = input("enter a string ")
 x=0
